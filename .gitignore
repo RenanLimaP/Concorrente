@@ -1,0 +1,9 @@
+/.metadata/
+account-migration/frontend-src/build/
+account-migration/frontend-src/node/
+account-migration/frontend-src/node_modules/
+account-migration/src/main/resources/public/
+package-lock.json
+.vscode/
+account-migration/log/
+reports/
